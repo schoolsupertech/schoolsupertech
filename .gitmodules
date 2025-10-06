@@ -1,3 +1,0 @@
-[submodule "nvim_test"]
-	path = nvim_test
-	url = git@github.com:schoolsupertech/schoolsupertech.git
